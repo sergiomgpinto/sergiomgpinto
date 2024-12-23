@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="[https://gist.githubusercontent.com/yourusername/gistid/raw/filename.svg](https://gist.github.com/sergiomgpinto/4145511a1f66f40db0421ac92ade6392)" width="800" alt="Neural Network Animation">
-</div>
+![SVG Description](https://gist.githubusercontent.com/sergiomgpinto/f8faee0a161a9f5019899768ff0063be/raw/243b058b3035ba997407e45047747a403e310b34/nn4.svg)
 
 <div align="center">
   
