@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=MSc+Student+in+Computer+Science;AI+Enthusiast;Teaching+%26+Learning+Explorer;Bridging+Theory+and+Performance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=MSc+Student+in+Computer+Science;AI+Enthusiast)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/890.gif" width="100">
 
