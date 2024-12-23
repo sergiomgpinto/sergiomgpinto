@@ -1,4 +1,6 @@
-# Olá, I'm Sérgio Pinto 👋
+<div align="center">
+  <img src="[https://gist.githubusercontent.com/yourusername/gistid/raw/filename.svg](https://gist.github.com/sergiomgpinto/4145511a1f66f40db0421ac92ade6392)" width="800" alt="Neural Network Animation">
+</div>
 
 <div align="center">
   
