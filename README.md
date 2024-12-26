@@ -5,7 +5,7 @@
 
 ### * **Looking for Machine Learning Internship positions starting July 2025** *
 
-[🌐 Personal Website (Coming Soon)](https://sergiomgpinto.github.io)
+[🌐 Personal Website](https://sergiomgpinto.github.io)
 </div>
 
 
