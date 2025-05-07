@@ -11,49 +11,18 @@
 
 ## About Me
 
-I'm a Master's student in Computer Science at Instituto Superior Técnico, specializing in Artificial Intelligence. I'm also a Graduate Student Researcher at INESC-ID. I believe in understanding things from first principles and love sharing knowledge through teaching. Currently focusing on humor understanding and generation in MLLMs for my master's thesis. In my free time, I am learning low-level inference optimization in LLMs.
+I'm a Master's student in Computer Science at Instituto Superior Técnico, specializing in Artificial Intelligence. I'm also a Graduate Student Researcher at INESC-ID.
 
-## Academia 
+## Publications
 
-### Publications
+- [Explainable Automatic Fact-Checking for Journalists Augmentation in the Wild](https://2025.ijcai.org/call-for-papers-human-centred-artificial-intelligence/)
+  - Accepted at IJCAI'25 Special Track: Human-Centred Artificial Intelligence
 - [Towards AI-mediated Meme Generation for Misinformation Correction Explanation](https://ceur-ws.org/Vol-3803/paper5.pdf)
-  - Accepted at MAI-XAI'24: Workshop on Multimodal, Affective and Interactive eXplainable AI
+  - Published and accepted at MAI-XAI'24: Workshop on Multimodal, Affective and Interactive eXplainable AI
 
-### Teaching Experience
+## Teaching Experience
   - [Machine Learning, Fall Semester 2023](https://fenix.tecnico.ulisboa.pt/disciplinas/Apre2/2023-2024/1-semestre)
   - [Logic for Programming, Fall Semester 2023](https://fenix.tecnico.ulisboa.pt/disciplinas/LP2/2023-2024/1-semestre)
-
-
-## Tech Stack 
-
-```python
-tech_stack = {
-   'Languages': ['Python', 'SQL', 'Javascript', 'CUDA (Learning)'],
-   'ML & Data': ['PyTorch', 'TensorFlow', 'scikit-learn', 
-                 'Pandas', 'NumPy', 'LangChain'],
-   'Web & APIs': ['React', 'Flask', 'REST'],
-   'Databases': ['ChromaDB', 'NoSQL', 'SQLAlchemy'],
-   'Containerization': ['Docker', 'Kubernetes'],
-   'Others': ['Numba', 'Framer', 'Firebase', 'AWS', 'Figma']
-}
-```
-## Languages
-
-```python
-languages = {
-    'Portuguese': 'Native',
-    'English': 'Professional Working Proficiency',
-    'French': 'Basic',
-    'German': 'Learning'
-}
-```
-
-## Other Interests 
-- Entrepreneurship
-- Piano (Bethoven, Bach)
-- [Reading (Paper books only)](https://www.goodreads.com/user/show/160986189-s-rgio-pinto)
-- [Techno music](https://soundcloud.com/miguel-pinto-623090307)
-
 
 ## Let's Connect 
 <div align="center">
